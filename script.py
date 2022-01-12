@@ -1,5 +1,6 @@
 import streamlit as st
 money=5000
+money=0
 st.title('丁半')
 while(True):
   e=1
